@@ -1,0 +1,38 @@
+/* The Greenhouse — warm cream, leafy sage, and a quiet moss accent.
+   Intended for Poznote's Light base. */
+:root {
+  --pz-bg: #f4f2e9;
+  --pz-surface: #e9ecdf;
+  --pz-surface-hover: #e2e7d8;
+  --pz-surface-sunken: #dce2d1;
+  --pz-surface-strong: #d1dac5;
+  --pz-surface-strong-hover: #c2cfb3;
+  --pz-chrome-bg: #e7ebdd;
+  --pz-sidebar-bg: #e7ebdd;
+  --pz-sidebar-surface: #eef0e5;
+  --pz-code-bg: #e8ecdf;
+  --pz-active-bg: #dce6d6;
+  --pz-tabbar-bg: #e7ebdd;
+  --pz-tab-bg: #eef0e5;
+  --pz-tab-hover-bg: #e5e9dc;
+  --pz-tab-active-bg: #f4f2e9;
+  --pz-text-strong: #26342b;
+  --pz-text: #35443a;
+  --pz-text-secondary: #4e5e51;
+  --pz-text-muted: #657465;
+  --pz-text-subtle: #829080;
+  --pz-text-inverse: #f7f8f1;
+  --pz-border-light: #e0e5d8;
+  --pz-border: #d0d8c8;
+  --pz-border-strong: #bdcbb5;
+  --pz-accent: #5f795d;
+  --pz-accent-hover: #496449;
+  --pz-accent-strong: #3f5b45;
+  --pz-accent-soft: #dce7d8;
+  --pz-accent-rgb: 95, 121, 93;
+  --pz-accent-text: #4a684d;
+  --pz-accent-text-hover: #36543b;
+  --pz-accent-text-rgb: 74, 104, 77;
+  --pz-link: #45664a;
+  --pz-selection: rgba(95, 121, 93, 0.2);
+}

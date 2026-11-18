@@ -1,0 +1,38 @@
+/* The Hearth — walnut ink, oat paper, and a restrained cinnamon accent.
+   Intended for Poznote's Light base. */
+:root {
+  --pz-bg: #f5efe4;
+  --pz-surface: #eee5d6;
+  --pz-surface-hover: #e9decc;
+  --pz-surface-sunken: #e2d5c1;
+  --pz-surface-strong: #d8c7ad;
+  --pz-surface-strong-hover: #cbb695;
+  --pz-chrome-bg: #e8ddcb;
+  --pz-sidebar-bg: #e8ddcb;
+  --pz-sidebar-surface: #f0e7d9;
+  --pz-code-bg: #ece2d2;
+  --pz-active-bg: #e6d5bd;
+  --pz-tabbar-bg: #e8ddcb;
+  --pz-tab-bg: #f0e7d9;
+  --pz-tab-hover-bg: #eadfce;
+  --pz-tab-active-bg: #f5efe4;
+  --pz-text-strong: #34271f;
+  --pz-text: #43352b;
+  --pz-text-secondary: #5f4d3f;
+  --pz-text-muted: #786555;
+  --pz-text-subtle: #8d7a68;
+  --pz-text-inverse: #fffaf2;
+  --pz-border-light: #e7dccb;
+  --pz-border: #d8c8b1;
+  --pz-border-strong: #c9b596;
+  --pz-accent: #a85f3d;
+  --pz-accent-hover: #85472d;
+  --pz-accent-strong: #78432f;
+  --pz-accent-soft: #ead6c6;
+  --pz-accent-rgb: 168, 95, 61;
+  --pz-accent-text: #914b30;
+  --pz-accent-text-hover: #713a27;
+  --pz-accent-text-rgb: 145, 75, 48;
+  --pz-link: #85472d;
+  --pz-selection: rgba(168, 95, 61, 0.2);
+}
