@@ -1,0 +1,37 @@
+/* Cocoa After Hours — dark reading-room palette. */
+html[data-theme='dark'] {
+  --pz-bg: #211c19;
+  --pz-surface: #2a231f;
+  --pz-surface-hover: #352c26;
+  --pz-surface-sunken: #171311;
+  --pz-chrome-bg: #251f1b;
+  --pz-sidebar-surface: #302823;
+  --pz-code-bg: #171310;
+  --pz-active-bg: #3b3028;
+  --pz-tab-active-bg: #251f1b;
+  --pz-text-strong: #f0e5d8;
+  --pz-text: #e4d7c9;
+  --pz-text-secondary: #cbb8a6;
+  --pz-text-muted: #ad9986;
+  --pz-text-subtle: #8c7866;
+  --pz-border-light: #3a302a;
+  --pz-border: #493c33;
+  --pz-border-strong: #5a493d;
+  --pz-accent: #c18b55;
+  --pz-accent-hover: #d6a36d;
+  --pz-accent-strong: #e0b987;
+  --pz-accent-soft: #41332a;
+  --pz-accent-rgb: 193, 139, 85;
+  --pz-accent-text: #d6a36d;
+  --pz-accent-text-hover: #e6b77e;
+  --pz-accent-text-rgb: 214, 163, 109;
+  --pz-link: #d6a36d;
+  --pz-surface-strong: #171311;
+  --pz-surface-strong-hover: #352c26;
+  --pz-sidebar-bg: #251f1b;
+  --pz-tabbar-bg: #251f1b;
+  --pz-tab-bg: #302823;
+  --pz-tab-hover-bg: #352c26;
+  --pz-text-inverse: #211c19;
+  --pz-selection: rgba(193, 139, 85, 0.22);
+}

@@ -1,0 +1,37 @@
+/* Blue Hour Blanket — dark reading-room palette. */
+html[data-theme='dark'] {
+  --pz-bg: #18202a;
+  --pz-surface: #202a36;
+  --pz-surface-hover: #2a3745;
+  --pz-surface-sunken: #111720;
+  --pz-chrome-bg: #1b2530;
+  --pz-sidebar-surface: #252f3c;
+  --pz-code-bg: #121923;
+  --pz-active-bg: #2d3c4c;
+  --pz-tab-active-bg: #1b2530;
+  --pz-text-strong: #edf0f3;
+  --pz-text: #dfe5eb;
+  --pz-text-secondary: #bec9d5;
+  --pz-text-muted: #9eacbb;
+  --pz-text-subtle: #7f8e9d;
+  --pz-border-light: #313c49;
+  --pz-border: #3d4a59;
+  --pz-border-strong: #4c5b6c;
+  --pz-accent: #9bb4c7;
+  --pz-accent-hover: #b1cadb;
+  --pz-accent-strong: #c5dae7;
+  --pz-accent-soft: #2d3b48;
+  --pz-accent-rgb: 155, 180, 199;
+  --pz-accent-text: #b1cadb;
+  --pz-accent-text-hover: #c4dceb;
+  --pz-accent-text-rgb: 177, 202, 219;
+  --pz-link: #b1cadb;
+  --pz-surface-strong: #111720;
+  --pz-surface-strong-hover: #2a3745;
+  --pz-sidebar-bg: #1b2530;
+  --pz-tabbar-bg: #1b2530;
+  --pz-tab-bg: #252f3c;
+  --pz-tab-hover-bg: #2a3745;
+  --pz-text-inverse: #18202a;
+  --pz-selection: rgba(155, 180, 199, 0.22);
+}

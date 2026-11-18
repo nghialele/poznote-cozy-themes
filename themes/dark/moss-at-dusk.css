@@ -1,0 +1,37 @@
+/* Moss At Dusk — dark reading-room palette. */
+html[data-theme='dark'] {
+  --pz-bg: #1b201b;
+  --pz-surface: #242b23;
+  --pz-surface-hover: #2e382c;
+  --pz-surface-sunken: #141914;
+  --pz-chrome-bg: #20271f;
+  --pz-sidebar-surface: #2a3228;
+  --pz-code-bg: #151a14;
+  --pz-active-bg: #344030;
+  --pz-tab-active-bg: #20271f;
+  --pz-text-strong: #e8eadf;
+  --pz-text: #dce1d2;
+  --pz-text-secondary: #bdc9b5;
+  --pz-text-muted: #9eae96;
+  --pz-text-subtle: #7e9078;
+  --pz-border-light: #333d31;
+  --pz-border: #404d3c;
+  --pz-border-strong: #50614b;
+  --pz-accent: #91aa78;
+  --pz-accent-hover: #aac38e;
+  --pz-accent-strong: #bdd2a5;
+  --pz-accent-soft: #303b2c;
+  --pz-accent-rgb: 145, 170, 120;
+  --pz-accent-text: #aac38e;
+  --pz-accent-text-hover: #bed4a3;
+  --pz-accent-text-rgb: 170, 195, 142;
+  --pz-link: #aac38e;
+  --pz-surface-strong: #141914;
+  --pz-surface-strong-hover: #2e382c;
+  --pz-sidebar-bg: #20271f;
+  --pz-tabbar-bg: #20271f;
+  --pz-tab-bg: #2a3228;
+  --pz-tab-hover-bg: #2e382c;
+  --pz-text-inverse: #1b201b;
+  --pz-selection: rgba(145, 170, 120, 0.22);
+}

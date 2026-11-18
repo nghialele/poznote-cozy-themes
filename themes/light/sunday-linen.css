@@ -1,0 +1,37 @@
+/* Sunday Linen — cozy light palette. */
+:root {
+  --pz-bg: #f6f2e9;
+  --pz-surface: #eee9df;
+  --pz-surface-hover: #e9e2d6;
+  --pz-surface-sunken: #dfd6c8;
+  --pz-chrome-bg: #ece6db;
+  --pz-sidebar-surface: #f2ede4;
+  --pz-code-bg: #ebe4d8;
+  --pz-active-bg: #eee1ce;
+  --pz-tab-active-bg: #f6f2e9;
+  --pz-text-strong: #38322c;
+  --pz-text: #484139;
+  --pz-text-secondary: #625950;
+  --pz-text-muted: #7a7065;
+  --pz-text-subtle: #92877b;
+  --pz-border-light: #e8dfd2;
+  --pz-border: #d9cebf;
+  --pz-border-strong: #c9baa7;
+  --pz-accent: #ad7861;
+  --pz-accent-hover: #8e5e4a;
+  --pz-accent-strong: #754b3c;
+  --pz-accent-soft: #efdfd4;
+  --pz-accent-rgb: 173, 120, 97;
+  --pz-accent-text: #865740;
+  --pz-accent-text-hover: #684231;
+  --pz-accent-text-rgb: 134, 87, 64;
+  --pz-link: #865740;
+  --pz-surface-strong: #dfd6c8;
+  --pz-surface-strong-hover: #e9e2d6;
+  --pz-sidebar-bg: #ece6db;
+  --pz-tabbar-bg: #ece6db;
+  --pz-tab-bg: #f2ede4;
+  --pz-tab-hover-bg: #e9e2d6;
+  --pz-text-inverse: #f6f2e9;
+  --pz-selection: rgba(173, 120, 97, 0.22);
+}

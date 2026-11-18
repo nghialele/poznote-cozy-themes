@@ -1,0 +1,37 @@
+/* Midnight Library — dark reading-room palette. */
+html[data-theme='dark'] {
+  --pz-bg: #171b1c;
+  --pz-surface: #202627;
+  --pz-surface-hover: #293132;
+  --pz-surface-sunken: #111516;
+  --pz-chrome-bg: #1c2223;
+  --pz-sidebar-surface: #252c2d;
+  --pz-code-bg: #111718;
+  --pz-active-bg: #2d3535;
+  --pz-tab-active-bg: #1c2223;
+  --pz-text-strong: #f0eadc;
+  --pz-text: #e3dccd;
+  --pz-text-secondary: #c7c0b2;
+  --pz-text-muted: #aaa597;
+  --pz-text-subtle: #878478;
+  --pz-border-light: #303738;
+  --pz-border: #3a4242;
+  --pz-border-strong: #4a5352;
+  --pz-accent: #b98a61;
+  --pz-accent-hover: #d0a77c;
+  --pz-accent-strong: #d8b58d;
+  --pz-accent-soft: #44382c;
+  --pz-accent-rgb: 185, 138, 97;
+  --pz-accent-text: #d0a77c;
+  --pz-accent-text-hover: #e0bd94;
+  --pz-accent-text-rgb: 208, 167, 124;
+  --pz-link: #d0a77c;
+  --pz-surface-strong: #111516;
+  --pz-surface-strong-hover: #293132;
+  --pz-sidebar-bg: #1c2223;
+  --pz-tabbar-bg: #1c2223;
+  --pz-tab-bg: #252c2d;
+  --pz-tab-hover-bg: #293132;
+  --pz-text-inverse: #171b1c;
+  --pz-selection: rgba(185, 138, 97, 0.22);
+}

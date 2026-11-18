@@ -1,0 +1,37 @@
+/* Bookshop Cat — cozy light palette. */
+:root {
+  --pz-bg: #f3eddf;
+  --pz-surface: #e9e0ce;
+  --pz-surface-hover: #e2d7c2;
+  --pz-surface-sunken: #d8c9b0;
+  --pz-chrome-bg: #e6dcc9;
+  --pz-sidebar-surface: #efe7d7;
+  --pz-code-bg: #e8deca;
+  --pz-active-bg: #e9d9b5;
+  --pz-tab-active-bg: #f3eddf;
+  --pz-text-strong: #342d24;
+  --pz-text: #463c30;
+  --pz-text-secondary: #5e5142;
+  --pz-text-muted: #776858;
+  --pz-text-subtle: #928170;
+  --pz-border-light: #e4dac8;
+  --pz-border: #d2c2aa;
+  --pz-border-strong: #bfac8d;
+  --pz-accent: #80664c;
+  --pz-accent-hover: #664e38;
+  --pz-accent-strong: #503d2d;
+  --pz-accent-soft: #e7dfce;
+  --pz-accent-rgb: 128, 102, 76;
+  --pz-accent-text: #654a34;
+  --pz-accent-text-hover: #4e3828;
+  --pz-accent-text-rgb: 101, 74, 52;
+  --pz-link: #654a34;
+  --pz-surface-strong: #d8c9b0;
+  --pz-surface-strong-hover: #e2d7c2;
+  --pz-sidebar-bg: #e6dcc9;
+  --pz-tabbar-bg: #e6dcc9;
+  --pz-tab-bg: #efe7d7;
+  --pz-tab-hover-bg: #e2d7c2;
+  --pz-text-inverse: #f3eddf;
+  --pz-selection: rgba(128, 102, 76, 0.22);
+}

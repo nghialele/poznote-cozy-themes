@@ -1,0 +1,37 @@
+/* Library Moss — cozy light palette. */
+:root {
+  --pz-bg: #f1f0e5;
+  --pz-surface: #e7e8d9;
+  --pz-surface-hover: #dfe2d0;
+  --pz-surface-sunken: #d4d9c1;
+  --pz-chrome-bg: #e3e5d6;
+  --pz-sidebar-surface: #ececdf;
+  --pz-code-bg: #e3e5d6;
+  --pz-active-bg: #dce3d2;
+  --pz-tab-active-bg: #f1f0e5;
+  --pz-text-strong: #2c3528;
+  --pz-text: #3c4736;
+  --pz-text-secondary: #56614d;
+  --pz-text-muted: #6d7764;
+  --pz-text-subtle: #899080;
+  --pz-border-light: #dfe3d5;
+  --pz-border: #ced5c4;
+  --pz-border-strong: #b9c4ac;
+  --pz-accent: #68764e;
+  --pz-accent-hover: #515e3c;
+  --pz-accent-strong: #424e32;
+  --pz-accent-soft: #dfe6d2;
+  --pz-accent-rgb: 104, 118, 78;
+  --pz-accent-text: #4e603b;
+  --pz-accent-text-hover: #3b4a2c;
+  --pz-accent-text-rgb: 78, 96, 59;
+  --pz-link: #4e603b;
+  --pz-surface-strong: #d4d9c1;
+  --pz-surface-strong-hover: #dfe2d0;
+  --pz-sidebar-bg: #e3e5d6;
+  --pz-tabbar-bg: #e3e5d6;
+  --pz-tab-bg: #ececdf;
+  --pz-tab-hover-bg: #dfe2d0;
+  --pz-text-inverse: #f1f0e5;
+  --pz-selection: rgba(104, 118, 78, 0.22);
+}

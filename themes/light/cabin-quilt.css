@@ -1,0 +1,37 @@
+/* Cabin Quilt — cozy light palette. */
+:root {
+  --pz-bg: #f1eee5;
+  --pz-surface: #e6e2d7;
+  --pz-surface-hover: #ddd8ca;
+  --pz-surface-sunken: #d2cbb9;
+  --pz-chrome-bg: #e1ddd1;
+  --pz-sidebar-surface: #ece8dd;
+  --pz-code-bg: #e3ded1;
+  --pz-active-bg: #e4dbc9;
+  --pz-tab-active-bg: #f1eee5;
+  --pz-text-strong: #30322c;
+  --pz-text: #41443b;
+  --pz-text-secondary: #5b5e53;
+  --pz-text-muted: #74776a;
+  --pz-text-subtle: #8c8f82;
+  --pz-border-light: #dfdbd0;
+  --pz-border: #cdc7ba;
+  --pz-border-strong: #bab1a0;
+  --pz-accent: #8c6855;
+  --pz-accent-hover: #704e3e;
+  --pz-accent-strong: #593d31;
+  --pz-accent-soft: #e7dcd2;
+  --pz-accent-rgb: 140, 104, 85;
+  --pz-accent-text: #704b39;
+  --pz-accent-text-hover: #563929;
+  --pz-accent-text-rgb: 112, 75, 57;
+  --pz-link: #704b39;
+  --pz-surface-strong: #d2cbb9;
+  --pz-surface-strong-hover: #ddd8ca;
+  --pz-sidebar-bg: #e1ddd1;
+  --pz-tabbar-bg: #e1ddd1;
+  --pz-tab-bg: #ece8dd;
+  --pz-tab-hover-bg: #ddd8ca;
+  --pz-text-inverse: #f1eee5;
+  --pz-selection: rgba(140, 104, 85, 0.22);
+}

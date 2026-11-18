@@ -1,0 +1,37 @@
+/* Fireside Cardigan — cozy light palette. */
+:root {
+  --pz-bg: #f3ece5;
+  --pz-surface: #e9ddd5;
+  --pz-surface-hover: #e3d3ca;
+  --pz-surface-sunken: #d8c6bc;
+  --pz-chrome-bg: #e7d9d0;
+  --pz-sidebar-surface: #efe5dd;
+  --pz-code-bg: #e8d9cf;
+  --pz-active-bg: #ead4c9;
+  --pz-tab-active-bg: #f3ece5;
+  --pz-text-strong: #3a2d2a;
+  --pz-text: #4b3a36;
+  --pz-text-secondary: #66524d;
+  --pz-text-muted: #7e6862;
+  --pz-text-subtle: #97817a;
+  --pz-border-light: #e8ddd7;
+  --pz-border: #d7c7bf;
+  --pz-border-strong: #c5b1a7;
+  --pz-accent: #a75e53;
+  --pz-accent-hover: #84463f;
+  --pz-accent-strong: #6d3934;
+  --pz-accent-soft: #ead6d0;
+  --pz-accent-rgb: 167, 94, 83;
+  --pz-accent-text: #843f38;
+  --pz-accent-text-hover: #69312d;
+  --pz-accent-text-rgb: 132, 63, 56;
+  --pz-link: #843f38;
+  --pz-surface-strong: #d8c6bc;
+  --pz-surface-strong-hover: #e3d3ca;
+  --pz-sidebar-bg: #e7d9d0;
+  --pz-tabbar-bg: #e7d9d0;
+  --pz-tab-bg: #efe5dd;
+  --pz-tab-hover-bg: #e3d3ca;
+  --pz-text-inverse: #f3ece5;
+  --pz-selection: rgba(167, 94, 83, 0.22);
+}

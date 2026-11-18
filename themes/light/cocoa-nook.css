@@ -1,0 +1,37 @@
+/* Cocoa Nook — cozy light palette. */
+:root {
+  --pz-bg: #f2e9dc;
+  --pz-surface: #e8ddce;
+  --pz-surface-hover: #dfd1bf;
+  --pz-surface-sunken: #d5c4af;
+  --pz-chrome-bg: #e4d7c5;
+  --pz-sidebar-surface: #eee3d4;
+  --pz-code-bg: #e6d8c5;
+  --pz-active-bg: #e8d2bb;
+  --pz-tab-active-bg: #f2e9dc;
+  --pz-text-strong: #392c25;
+  --pz-text: #4b3a30;
+  --pz-text-secondary: #665247;
+  --pz-text-muted: #806c60;
+  --pz-text-subtle: #968174;
+  --pz-border-light: #e2d5c4;
+  --pz-border: #d2c1ad;
+  --pz-border-strong: #c0ab94;
+  --pz-accent: #a66a43;
+  --pz-accent-hover: #825134;
+  --pz-accent-strong: #6b422c;
+  --pz-accent-soft: #ead6c3;
+  --pz-accent-rgb: 166, 106, 67;
+  --pz-accent-text: #7e4d32;
+  --pz-accent-text-hover: #613b27;
+  --pz-accent-text-rgb: 126, 77, 50;
+  --pz-link: #7e4d32;
+  --pz-surface-strong: #d5c4af;
+  --pz-surface-strong-hover: #dfd1bf;
+  --pz-sidebar-bg: #e4d7c5;
+  --pz-tabbar-bg: #e4d7c5;
+  --pz-tab-bg: #eee3d4;
+  --pz-tab-hover-bg: #dfd1bf;
+  --pz-text-inverse: #f2e9dc;
+  --pz-selection: rgba(166, 106, 67, 0.22);
+}

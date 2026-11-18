@@ -1,0 +1,37 @@
+/* Rainy Window — cozy light palette. */
+:root {
+  --pz-bg: #eff2f2;
+  --pz-surface: #e4ebed;
+  --pz-surface-hover: #dce5e8;
+  --pz-surface-sunken: #d2dde0;
+  --pz-chrome-bg: #e1e9eb;
+  --pz-sidebar-surface: #edf1f1;
+  --pz-code-bg: #e2eaec;
+  --pz-active-bg: #dbe6e8;
+  --pz-tab-active-bg: #eff2f2;
+  --pz-text-strong: #26383e;
+  --pz-text: #354a51;
+  --pz-text-secondary: #4d646b;
+  --pz-text-muted: #637980;
+  --pz-text-subtle: #82959a;
+  --pz-border-light: #dbe4e6;
+  --pz-border: #c8d5d9;
+  --pz-border-strong: #b6c7cc;
+  --pz-accent: #a56e52;
+  --pz-accent-hover: #82523c;
+  --pz-accent-strong: #704632;
+  --pz-accent-soft: #eadbd1;
+  --pz-accent-rgb: 165, 110, 82;
+  --pz-accent-text: #804e38;
+  --pz-accent-text-hover: #663c2b;
+  --pz-accent-text-rgb: 128, 78, 56;
+  --pz-link: #804e38;
+  --pz-surface-strong: #d2dde0;
+  --pz-surface-strong-hover: #dce5e8;
+  --pz-sidebar-bg: #e1e9eb;
+  --pz-tabbar-bg: #e1e9eb;
+  --pz-tab-bg: #edf1f1;
+  --pz-tab-hover-bg: #dce5e8;
+  --pz-text-inverse: #eff2f2;
+  --pz-selection: rgba(165, 110, 82, 0.22);
+}

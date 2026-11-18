@@ -1,0 +1,37 @@
+/* Fern Fig — cozy light palette. */
+:root {
+  --pz-bg: #f0eee5;
+  --pz-surface: #e5e6da;
+  --pz-surface-hover: #dce0d0;
+  --pz-surface-sunken: #d1d7c2;
+  --pz-chrome-bg: #e0e3d5;
+  --pz-sidebar-surface: #eaecdf;
+  --pz-code-bg: #e2e5d5;
+  --pz-active-bg: #dce4d2;
+  --pz-tab-active-bg: #f0eee5;
+  --pz-text-strong: #29342b;
+  --pz-text: #3a473b;
+  --pz-text-secondary: #526151;
+  --pz-text-muted: #697969;
+  --pz-text-subtle: #829183;
+  --pz-border-light: #dde3d7;
+  --pz-border: #cbd5c8;
+  --pz-border-strong: #b7c5b3;
+  --pz-accent: #795b68;
+  --pz-accent-hover: #604655;
+  --pz-accent-strong: #4e3946;
+  --pz-accent-soft: #e6dbe3;
+  --pz-accent-rgb: 121, 91, 104;
+  --pz-accent-text: #654858;
+  --pz-accent-text-hover: #4e3646;
+  --pz-accent-text-rgb: 101, 72, 88;
+  --pz-link: #654858;
+  --pz-surface-strong: #d1d7c2;
+  --pz-surface-strong-hover: #dce0d0;
+  --pz-sidebar-bg: #e0e3d5;
+  --pz-tabbar-bg: #e0e3d5;
+  --pz-tab-bg: #eaecdf;
+  --pz-tab-hover-bg: #dce0d0;
+  --pz-text-inverse: #f0eee5;
+  --pz-selection: rgba(121, 91, 104, 0.22);
+}

@@ -1,0 +1,37 @@
+/* Pine Cabin — dark reading-room palette. */
+html[data-theme='dark'] {
+  --pz-bg: #171f1b;
+  --pz-surface: #202a24;
+  --pz-surface-hover: #2b372f;
+  --pz-surface-sunken: #111713;
+  --pz-chrome-bg: #1b251f;
+  --pz-sidebar-surface: #252f29;
+  --pz-code-bg: #121812;
+  --pz-active-bg: #304036;
+  --pz-tab-active-bg: #1b251f;
+  --pz-text-strong: #e8eee8;
+  --pz-text: #dbe6dc;
+  --pz-text-secondary: #b9cbbb;
+  --pz-text-muted: #98ae9a;
+  --pz-text-subtle: #788f7b;
+  --pz-border-light: #303d34;
+  --pz-border: #3d4c42;
+  --pz-border-strong: #4c5f51;
+  --pz-accent: #8eb69a;
+  --pz-accent-hover: #a6c8ad;
+  --pz-accent-strong: #bed9c2;
+  --pz-accent-soft: #2e3d33;
+  --pz-accent-rgb: 142, 182, 154;
+  --pz-accent-text: #a6c8ad;
+  --pz-accent-text-hover: #bfddc7;
+  --pz-accent-text-rgb: 166, 200, 173;
+  --pz-link: #a6c8ad;
+  --pz-surface-strong: #111713;
+  --pz-surface-strong-hover: #2b372f;
+  --pz-sidebar-bg: #1b251f;
+  --pz-tabbar-bg: #1b251f;
+  --pz-tab-bg: #252f29;
+  --pz-tab-hover-bg: #2b372f;
+  --pz-text-inverse: #171f1b;
+  --pz-selection: rgba(142, 182, 154, 0.22);
+}

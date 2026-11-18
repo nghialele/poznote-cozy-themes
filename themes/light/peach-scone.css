@@ -1,0 +1,37 @@
+/* Peach Scone — cozy light palette. */
+:root {
+  --pz-bg: #f7eee7;
+  --pz-surface: #efe1d7;
+  --pz-surface-hover: #e9d7ca;
+  --pz-surface-sunken: #dec9ba;
+  --pz-chrome-bg: #edddd2;
+  --pz-sidebar-surface: #f3e8df;
+  --pz-code-bg: #ecddd2;
+  --pz-active-bg: #f0d8c9;
+  --pz-tab-active-bg: #f7eee7;
+  --pz-text-strong: #3d2d28;
+  --pz-text: #503c35;
+  --pz-text-secondary: #6b534b;
+  --pz-text-muted: #856b62;
+  --pz-text-subtle: #9b8177;
+  --pz-border-light: #eaded6;
+  --pz-border: #d8c7bc;
+  --pz-border-strong: #c6b0a2;
+  --pz-accent: #b2674e;
+  --pz-accent-hover: #8f4e3a;
+  --pz-accent-strong: #743e2f;
+  --pz-accent-soft: #f1d9cb;
+  --pz-accent-rgb: 178, 103, 78;
+  --pz-accent-text: #8c4a37;
+  --pz-accent-text-hover: #6f392c;
+  --pz-accent-text-rgb: 140, 74, 55;
+  --pz-link: #8c4a37;
+  --pz-surface-strong: #dec9ba;
+  --pz-surface-strong-hover: #e9d7ca;
+  --pz-sidebar-bg: #edddd2;
+  --pz-tabbar-bg: #edddd2;
+  --pz-tab-bg: #f3e8df;
+  --pz-tab-hover-bg: #e9d7ca;
+  --pz-text-inverse: #f7eee7;
+  --pz-selection: rgba(178, 103, 78, 0.22);
+}

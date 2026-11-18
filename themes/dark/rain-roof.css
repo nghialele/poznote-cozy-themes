@@ -1,0 +1,37 @@
+/* Rain Roof — dark reading-room palette. */
+html[data-theme='dark'] {
+  --pz-bg: #171c22;
+  --pz-surface: #202831;
+  --pz-surface-hover: #293541;
+  --pz-surface-sunken: #11161c;
+  --pz-chrome-bg: #1b232b;
+  --pz-sidebar-surface: #252f39;
+  --pz-code-bg: #11171d;
+  --pz-active-bg: #2d3b45;
+  --pz-tab-active-bg: #1b232b;
+  --pz-text-strong: #e6edf0;
+  --pz-text: #d8e3e8;
+  --pz-text-secondary: #b8c8d0;
+  --pz-text-muted: #99adb8;
+  --pz-text-subtle: #778c97;
+  --pz-border-light: #303b44;
+  --pz-border: #3d4b56;
+  --pz-border-strong: #4b5d68;
+  --pz-accent: #d08c62;
+  --pz-accent-hover: #e0a37c;
+  --pz-accent-strong: #e7b491;
+  --pz-accent-soft: #3a302d;
+  --pz-accent-rgb: 208, 140, 98;
+  --pz-accent-text: #e0a37c;
+  --pz-accent-text-hover: #efb38e;
+  --pz-accent-text-rgb: 224, 163, 124;
+  --pz-link: #e0a37c;
+  --pz-surface-strong: #11161c;
+  --pz-surface-strong-hover: #293541;
+  --pz-sidebar-bg: #1b232b;
+  --pz-tabbar-bg: #1b232b;
+  --pz-tab-bg: #252f39;
+  --pz-tab-hover-bg: #293541;
+  --pz-text-inverse: #171c22;
+  --pz-selection: rgba(208, 140, 98, 0.22);
+}

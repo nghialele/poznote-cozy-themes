@@ -1,0 +1,37 @@
+/* Toasted Chai — cozy light palette. */
+:root {
+  --pz-bg: #f4ecdf;
+  --pz-surface: #eadfce;
+  --pz-surface-hover: #e3d5c0;
+  --pz-surface-sunken: #d9c8af;
+  --pz-chrome-bg: #e7dbc6;
+  --pz-sidebar-surface: #f0e5d4;
+  --pz-code-bg: #e9dbc4;
+  --pz-active-bg: #ead6b8;
+  --pz-tab-active-bg: #f4ecdf;
+  --pz-text-strong: #382f24;
+  --pz-text: #4b3e2d;
+  --pz-text-secondary: #665744;
+  --pz-text-muted: #806d58;
+  --pz-text-subtle: #96836c;
+  --pz-border-light: #e5dac8;
+  --pz-border: #d4c2a9;
+  --pz-border-strong: #c2ac8f;
+  --pz-accent: #a1793f;
+  --pz-accent-hover: #805d2d;
+  --pz-accent-strong: #674923;
+  --pz-accent-soft: #e8dbbe;
+  --pz-accent-rgb: 161, 121, 63;
+  --pz-accent-text: #78572d;
+  --pz-accent-text-hover: #5e4321;
+  --pz-accent-text-rgb: 120, 87, 45;
+  --pz-link: #78572d;
+  --pz-surface-strong: #d9c8af;
+  --pz-surface-strong-hover: #e3d5c0;
+  --pz-sidebar-bg: #e7dbc6;
+  --pz-tabbar-bg: #e7dbc6;
+  --pz-tab-bg: #f0e5d4;
+  --pz-tab-hover-bg: #e3d5c0;
+  --pz-text-inverse: #f4ecdf;
+  --pz-selection: rgba(161, 121, 63, 0.22);
+}

@@ -1,0 +1,37 @@
+/* Apricot Jam — cozy light palette. */
+:root {
+  --pz-bg: #f7efe2;
+  --pz-surface: #efe3d1;
+  --pz-surface-hover: #ead9c2;
+  --pz-surface-sunken: #dfcbae;
+  --pz-chrome-bg: #ecdfcc;
+  --pz-sidebar-surface: #f3e9d9;
+  --pz-code-bg: #eddfc9;
+  --pz-active-bg: #f0d7b8;
+  --pz-tab-active-bg: #f7efe2;
+  --pz-text-strong: #3b2d22;
+  --pz-text: #4e3d2e;
+  --pz-text-secondary: #69533f;
+  --pz-text-muted: #826d57;
+  --pz-text-subtle: #9a826a;
+  --pz-border-light: #eadfce;
+  --pz-border: #d9c8b2;
+  --pz-border-strong: #c8b294;
+  --pz-accent: #bf7140;
+  --pz-accent-hover: #994f2d;
+  --pz-accent-strong: #7a3d23;
+  --pz-accent-soft: #f3dcc5;
+  --pz-accent-rgb: 191, 113, 64;
+  --pz-accent-text: #934a2b;
+  --pz-accent-text-hover: #743a22;
+  --pz-accent-text-rgb: 147, 74, 43;
+  --pz-link: #934a2b;
+  --pz-surface-strong: #dfcbae;
+  --pz-surface-strong-hover: #ead9c2;
+  --pz-sidebar-bg: #ecdfcc;
+  --pz-tabbar-bg: #ecdfcc;
+  --pz-tab-bg: #f3e9d9;
+  --pz-tab-hover-bg: #ead9c2;
+  --pz-text-inverse: #f7efe2;
+  --pz-selection: rgba(191, 113, 64, 0.22);
+}
